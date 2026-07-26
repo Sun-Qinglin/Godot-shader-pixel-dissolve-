@@ -4,6 +4,11 @@
 
 <p align="center">
   A Godot shader can make 2D-object pixel dissolve
+  How to use it?
+  just drag it to the material column
+  Then add a new AnimationPlayer node in the node tree (if the node already exists, open it and create a new animation). Create an animation track for the shader's progress property and add the corresponding keyframes.
+  Let's try it!
+  if you still not understand how to use,please submit an issue
 </p>
 
 <p align="center">
@@ -99,6 +104,11 @@ void fragment() {
 }
 ```
 
+<p align="center">
+	If this shader is useful,please give me a star(>_<)
+</p>
+
+<h1 align="center"><b>Thank you!</b></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-4.x-blue.svg">
