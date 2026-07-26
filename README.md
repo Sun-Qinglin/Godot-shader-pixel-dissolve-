@@ -1,6 +1,8 @@
 <h1 align="center"><b>Godot-shader(pixel-dissolve)</b></h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align=="center">
   A Godot shader can make 2D-object pixel dissolve
@@ -98,7 +100,7 @@ void fragment() {
 	COLOR = vec4(final_color, COLOR.a * visible);
 }
 ```
-```markdown
+
 <h1 align="center"><b>Godot-shader(pixel-dissolve)</b></h1>
 
 <p align="center">
