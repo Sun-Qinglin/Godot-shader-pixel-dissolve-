@@ -1,16 +1,14 @@
 <h1 align="center"><b>Godot-shader(pixel-dissolve)</b></h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align=="center">
+<h1 align=="center">
   A Godot shader can make 2D-object pixel dissolve
-</p>
+</h1>
 
-<p align=="center">
+<h1 align=="center">
   <img src="gif/main_scene.tscn - 模块化godot (Copy2) - Godot Engine 2026-07-26 11-54-29.gif" width="600" alt="pixel dissove">
-</p>
+</h1>
 
 ```gdscript
 shader_type canvas_item;
@@ -101,7 +99,6 @@ void fragment() {
 }
 ```
 
-<h1 align="center"><b>Godot-shader(pixel-dissolve)</b></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-4.x-blue.svg">
