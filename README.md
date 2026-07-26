@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align=="center">
+<p align="center">
   A Godot shader can make 2D-object pixel dissolve
-</h1>
+</p>
 
-<h1 align=="center">
+<p align="center">
   <img src="gif/main_scene.tscn - 模块化godot (Copy2) - Godot Engine 2026-07-26 11-54-29.gif" width="600" alt="pixel dissove">
-</h1>
+</p>
 
 ```gdscript
 shader_type canvas_item;
